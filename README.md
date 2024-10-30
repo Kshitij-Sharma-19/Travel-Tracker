@@ -4,5 +4,7 @@
 Setup:
 ``
 npm i
+``
+``
 postgres pgadmin
 ``
